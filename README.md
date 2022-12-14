@@ -1,6 +1,6 @@
 # Medical-Chatbot
 
-Here is the simple chatbot working in which an idea is given how medical field can be implemented in IT field.
+Here is the simple chatbot working in which an idea is given how medical field can be implemented using the IT field.
 
 So here it is how you can find our medical bot in the telegram..
 
